@@ -1,6 +1,4 @@
 # Olá, seja bem-vindo!
-![image](https://github.com/user-attachments/assets/5f09fb07-1039-4130-bfcc-6e767aa752a5)
-
 
 - 👋 Oie, eu me chamo Évellin, tenho 22 anos e moro no interior de São Paulo!
 - 👩‍💻 Estudante de Desenvolvimento de Software pela Fatec
